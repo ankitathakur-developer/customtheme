@@ -1,0 +1,18 @@
+/*
+Theme Name: Custom Theme
+Theme URI: www.google.com
+Author: Custom Theme Developer
+Description: This is custom theme.
+Version: 1.1.0
+*/
+
+
+table a{
+    color: #000 !important;
+     text-decoration: none !important;
+     }
+        @media screen and (max-width: 570px){ 
+  table.globe-main{
+              width: 100%;
+}
+}
