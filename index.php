@@ -1,5 +1,5 @@
 <?php 
-get_header("home");
+get_header();
 ?>
                 <table class="email" style="margin: 0 auto ; font-family: Poppins, sans-serif ;  border-collapse: separate;
                 border-spacing: 0px; background-color: #fff !important;">
